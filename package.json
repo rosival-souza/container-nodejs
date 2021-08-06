@@ -1,0 +1,15 @@
+{
+  "name": "docker-server",
+  "version": "1.0.0",
+  "description": "container docker  for server nodeJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Rosival de Souza",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
